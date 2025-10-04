@@ -42,6 +42,7 @@ It allows users to apply to a hospital or old age home, validates age, stores da
    ```bash
    git clone https://github.com/ShlokPhadtare/Hospital_OldAge_C.git
 Default Password: shlok123
+---
 We can create our own using Encrypter.c
 
 
