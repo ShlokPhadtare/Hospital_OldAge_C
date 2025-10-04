@@ -41,5 +41,5 @@ It allows users to apply to a hospital or old age home, validates age, stores da
 1. Clone the repository:
    ```bash
    git clone https://github.com/ShlokPhadtare/Hospital_OldAge_C.git
-   default password: shlok123
+default password: shlok123
 
